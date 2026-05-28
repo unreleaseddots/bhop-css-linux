@@ -1,0 +1,10 @@
+﻿# Build output
+*.o
+*.out
+bhop
+build/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
